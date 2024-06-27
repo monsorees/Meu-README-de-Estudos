@@ -1,6 +1,6 @@
 # MINHA LISTA DE ESTUDOS FRONT END
 
-- [ ] Git/GitHub
+- [x] Git/GitHub
 - [ ] HTML
 - [ ] CSS
 - [ ] JavaScript
