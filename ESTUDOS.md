@@ -1,6 +1,8 @@
 # MINHA LISTA DE ESTUDOS FRONT END
 
 - [x] Git/GitHub
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript
+- [x] HTML
+- [x] CSS0
+- [x] SASS
+- [X] WEBPACK
+- [x] JavaScript
