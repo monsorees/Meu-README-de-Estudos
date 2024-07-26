@@ -2,7 +2,7 @@
 
 - [x] Git/GitHub
 - [x] HTML
-- [x] CSS0
+- [x] CSS
 - [x] SASS
 - [X] WEBPACK
 - [x] JavaScript
